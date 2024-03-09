@@ -23,8 +23,8 @@ const Nav = () => {
       <Link href="/" className='flex gap-2 flex-center'>
         <Image src="/assets/images/logosandro.png"
           alt="Logo"
-          width={50}
-          height={50}
+          width={150}
+          height={150}
           className="object-contain"
         />
         <p>SM</p>
