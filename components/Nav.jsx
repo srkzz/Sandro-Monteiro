@@ -30,8 +30,7 @@ const Nav = () => {
         <p></p>
       </Link>
 
-
-      {/* DESKTOP NAVIGATION */}
+   {/* DESKTOP NAVIGATION */}
       <div className='sm:flex hidden'>
         <Link href="/contact" className='outline_btn md:gap-5'>
           Contactar
