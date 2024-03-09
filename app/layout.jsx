@@ -5,8 +5,8 @@ import Footer from '@components/Footer';
 import Head from '@components/Head';
 
 export const metadata = {
-  title: "NextProject",
-  description: 'Projecto Next/React'
+  title: "Ruben Silva",
+  description: 'Site de Ruben Silva'
 }
 
 const RootLayout = ({ children }) => {
