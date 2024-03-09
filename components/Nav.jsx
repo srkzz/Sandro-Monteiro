@@ -21,13 +21,13 @@ const Nav = () => {
   return (
     <nav className='flex-between w-full mb-16 pt-3'>
       <Link href="/" className='flex gap-2 flex-center'>
-        <Image src="/assets/images/logosandro.png"
+        <Image src="/assets/images/logo.svg"
           alt="Logo"
-          width={150}
-          height={150}
+          width={50}
+          height={50}
           className="object-contain"
         />
-        <p>SM</p>
+        <p>Ruben Silva</p>
       </Link>
 
 
