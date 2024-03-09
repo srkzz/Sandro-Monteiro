@@ -5,8 +5,8 @@ import Footer from '@components/Footer';
 import Head from '@components/Head';
 
 export const metadata = {
-  title: "Ruben Silva",
-  description: 'Site de Ruben Silva'
+  title: "Sandro Monteiro",
+  description: 'Site do Sandro'
 }
 
 const RootLayout = ({ children }) => {
