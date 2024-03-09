@@ -5,9 +5,9 @@ const Home = () => {
     return (
         <section className="w-full flex-center flex-col">
             <h1 className="head_text text_center">
-                Rúben Silva
+                Sandro Monteiro
                 <br className="max-md:hidden" />
-                <Link href="/cv"><span className="junior_gradient text-center">Junior Developer</span></Link>
+                <Link href="/cv"><span className="junior_gradient text-center">Eletrônica, Desenho, Multimédia e Dança</span></Link>
             </h1>
                 <Feed></Feed>
         </section>
