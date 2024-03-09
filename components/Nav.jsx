@@ -27,7 +27,7 @@ const Nav = () => {
           height={200}
           className="object-contain"
         />
-        <p>Sandro Monteiro</p>
+        <p></p>
       </Link>
 
 
