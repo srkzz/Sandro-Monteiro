@@ -1,4 +1,3 @@
-import Feed from "@components/Feed";
 import Link from 'next/link';
 
 const Home = () => {
@@ -9,7 +8,7 @@ const Home = () => {
                 <br className="max-md:hidden" />
                 <Link href="/cv"><span className="junior_gradient text-center">Eletrônica, Desenho, Multimédia e Dança</span></Link>
             </h1>
-                <Feed></Feed>
+                
         </section>
     )
 }
