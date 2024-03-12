@@ -18,10 +18,11 @@ const Contact = ({ text, email, phone, message }) => {
                     Preencha o formulário e contacte-me!
                 </p>
             </div>
-            <form action="https://api.web3forms.com/submit" method="POST" classNameName='mt-10 w-full max-w-2x1 flex flex-col gap-7 glassmorphism'>
-                <input type="hidden" name="access_key" value="745fd456-da86-4d3b-bd5e-fda3e3bc4f1a" />
-                <input type="hidden" name="subject" value="New Submission from Web3Forms" />
-                <input type="hidden" name="redirect" value="https://web3forms.com/success" />
+            <form action="https://api.web3forms.com/submit" method="POST" id="form" class="needs-validation" novalidate classNameName='mt-10 w-full max-w-2x1 flex flex-col gap-7 glassmorphism'>
+              <input type="hidden" name="access_key" value="70196dc0-2a83-4b87-a52a-bdabd0e50caf" />
+              <input type="hidden" name="subject" value="New Submission from Web3Forms" />
+              <input type="checkbox" name="botcheck" id="" />
+              <input type="hidden" name="redirect" value="https://sandro-monteiro.vercel.app/"/>
 
                 <div className="mb-6">
                     <label for="name" className="block mb-2 text-sm text-gray-600 dark:text-gray-400">Nome</label>
