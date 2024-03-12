@@ -21,7 +21,7 @@ const Contact = ({ text, email, phone, message }) => {
             <form action="https://api.web3forms.com/submit" method="POST" id="form" class="needs-validation" novalidate classNameName='mt-10 w-full max-w-2x1 flex flex-col gap-7 glassmorphism'>
               <input type="hidden" name="access_key" value="70196dc0-2a83-4b87-a52a-bdabd0e50caf" />
               <input type="hidden" name="subject" value="New Submission from Web3Forms" />
-              <input type="checkbox" name="botcheck" id="" />
+              <input type="hidden" name="botcheck" id="" />
               <input type="hidden" name="redirect" value="https://sandro-monteiro.vercel.app/"/>
 
                 <div className="mb-6">
