@@ -17,7 +17,7 @@ const slides = [
     "./assets/images/pokebola.png",
     "./assets/images/tabuleiro.png",
     "./assets/images/torre.png",
-    "./assets/images/sandro.png",
+    "./assets/images/sandro.jpg",
 ];
 
 
