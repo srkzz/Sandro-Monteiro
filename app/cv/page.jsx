@@ -28,7 +28,7 @@ const CV = () => {
                 </div>
                 <div className="flex items-center mb-2">
                     <FaLinkedin className="mr-2" />
-                    <p>LinkedIn: <a href="www.linkedin.com/in/ruben-silva-a96866272">O teu linkedin</a></p>
+                    <p> <a href="www.linkedin.com/">LinkedIn: O teu linkedin</a></p>
                 </div>
             </section>
 
