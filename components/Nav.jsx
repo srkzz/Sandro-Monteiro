@@ -133,7 +133,7 @@ const Nav = () => {
                   </li> 
                   <li><Link href="/contact" className='mt-2 outline_btn glassmorphism md:gap-5'>Contactar</Link></li>
                   <li><Link href="/cv" className='mt-2 outline_btn glassmorphism md:gap-5'>Curriculum</Link></li>
-                  <li><Link href="/modelacao" className='outline_btn md:gap-5'> Modelação </Link></li>
+                  <li><Link href="/modelacao" className='outline_btn glassmorphism md:gap-5'> Modelação </Link></li>
                   <li>
                     <Link
                       href="/create-prompt"
