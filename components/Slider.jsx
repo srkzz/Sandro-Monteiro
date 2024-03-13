@@ -2,7 +2,7 @@ import React from 'react';
 import Carousel from './Carousel';
 
 const slides = [
-  "./assets/images/jante.PNG",
+  "./assets/images/jante.png",
   "./assets/images/Peca1.PNG",
   "./assets/images/Peca2.png",
   "./assets/images/alfinete.png",
